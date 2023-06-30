@@ -2,7 +2,7 @@
 
 My name is Jaime Cruz Ferreira.
 
-I am a BSc in Computer Science from the Faculty of Sciences of the University of Porto (FCUP).
+I am a student of the BSc in Computer Science from the Faculty of Sciences of the University of Porto (FCUP).
 
 ## Favourite Technologies ##
 
